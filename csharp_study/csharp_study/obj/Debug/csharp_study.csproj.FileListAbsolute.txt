@@ -1,0 +1,9 @@
+D:\_16_c_sharp\csharp_study_git\csharp_study\csharp_study\bin\Debug\csharp_study.exe.config
+D:\_16_c_sharp\csharp_study_git\csharp_study\csharp_study\bin\Debug\csharp_study.exe
+D:\_16_c_sharp\csharp_study_git\csharp_study\csharp_study\bin\Debug\csharp_study.pdb
+D:\_16_c_sharp\csharp_study_git\csharp_study\csharp_study\obj\Debug\csharp_study.csprojAssemblyReference.cache
+D:\_16_c_sharp\csharp_study_git\csharp_study\csharp_study\obj\Debug\csharp_study.Properties.Resources.resources
+D:\_16_c_sharp\csharp_study_git\csharp_study\csharp_study\obj\Debug\csharp_study.csproj.GenerateResource.cache
+D:\_16_c_sharp\csharp_study_git\csharp_study\csharp_study\obj\Debug\csharp_study.csproj.CoreCompileInputs.cache
+D:\_16_c_sharp\csharp_study_git\csharp_study\csharp_study\obj\Debug\csharp_study.exe
+D:\_16_c_sharp\csharp_study_git\csharp_study\csharp_study\obj\Debug\csharp_study.pdb
