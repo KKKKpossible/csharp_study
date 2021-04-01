@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6FBD04FA-CD0C-4F2E-A676-94CED778AEE9}</ProjectGuid>
+    <ProjectGuid>{E9E66C47-1CFD-41FA-9C88-F75D34FEE75C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>csharp_study</RootNamespace>
-    <AssemblyName>csharp_study</AssemblyName>
+    <RootNamespace>csharp_study_1</RootNamespace>
+    <AssemblyName>csharp_study_1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -52,9 +52,14 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form1.Partial3.cs">
+      <SubType>Form</SubType>
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="xaml_0.cs" />
+    <Compile Include="xaml_config.cs" />
+    <Compile Include="xaml_config_1.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
